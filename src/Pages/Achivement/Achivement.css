@@ -1,0 +1,17 @@
+.achivement{
+    background: url(../../assests/Rectangle\ 35.png)    no-repeat, url(../../assests/Rectangle\ 34.png)   no-repeat ;
+    /* width: 100%; */
+   margin-left: 250px;
+   
+    
+    
+   
+}
+
+@media screen and (max-width: 480px) {
+    .achivement {
+        width: 70%;
+      margin-left: 0px;
+      height: 700px;
+    }
+  }

@@ -1,0 +1,23 @@
+
+
+.doctor1{
+    background: url(../../assests/Rectangle\ 60.png)   top no-repeat, url(../../assests/Rectangle\ 16.png)  bottom no-repeat ;
+  
+  background-size: 260px, 290px, auto;
+  
+}
+
+
+
+.doctor2{
+  background: url(../../assests/Rectangle\ 61.png)   top no-repeat, url(../../assests/Rectangle\ 62.png)  bottom no-repeat ;
+  background-size:  250px, 290px;
+  
+  
+}
+
+@media screen and (max-width: 480px) {
+  .doctor2 {
+      margin-top: 120px;
+  }
+}
